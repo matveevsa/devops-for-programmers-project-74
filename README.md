@@ -1,1 +1,1 @@
-![github action status](https://github.com/matveevsa/devops-for-programmers-project-74/actions/workflows/push.yml/badge.svg)
+[![github action status](https://github.com/matveevsa/devops-for-programmers-project-74/actions/workflows/push.yml/badge.svg)](https://actions-badge.atrox.dev/matveevsa/devops-for-programmers-project-74/goto)
